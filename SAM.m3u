@@ -1,11 +1,11 @@
-#EXTM3U
-##Canales nacionales
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
+
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="NACIONAL",Agro TV (Apurimac)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="NACIONAL",Latina
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://static.wikia.nocookie.net/tvpedia-peru/images/7/70/Latina_TV_2022.svg/revision/latest?cb=20241121200000&path-prefix=es" group-title="NACIONAL",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
@@ -61,12 +61,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="NACIONAL",Genios TV (Moyobamba) (720p)
-https://live.obslivestream.com/geniostvmux/index.m3u
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p)
+https://live.obslivestream.com/geniostvmux/index.m3u8
 
-
-
-##PELICULAS
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0,AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
@@ -75,7 +72,6 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-##DEPORTES
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
@@ -126,7 +122,7 @@ http://177.53.155.236:8000/play/a0bt/index.m3u8
 http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
+#EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
 http://200.60.124.19:29000/play/a06p/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
@@ -136,7 +132,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ANDES TV" tvg-logo="https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="Movies",Andes TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8
-
 
 
 
