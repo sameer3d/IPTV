@@ -133,5 +133,14 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ANDES TV" tvg-logo="https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="Movies",Andes TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8
 
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Musica",Oasis RTV HD
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Musica",Turbo Mix Radio TV SD
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
