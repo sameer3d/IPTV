@@ -12,7 +12,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunk
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="NACIONAL",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV#EXTVLCOPT:network-caching=1000https://live-evg4.tv360.bitel.com.pe/VYwEpp9FhsORqxW8bmSjOg/1737245856/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
+#EXTVLCOPT:network-caching=1000https://live-evg4.tv360.bitel.com.pe/VYwEpp9FhsORqxW8bmSjOg/1737245856/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
@@ -58,7 +61,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p)
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="NACIONAL",Genios TV (Moyobamba) (720p)
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
@@ -130,10 +133,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ANDES TV" tvg-logo="https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="Movies",Andes TV
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8
-
 #EXTINF:0, Canal IPe (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
@@ -155,7 +154,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto (720p)
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="NACIONAL",Televisión Tarapoto (720p)
 #EXTVLCOPT:network-caching=1000
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
@@ -167,11 +166,11 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p)
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="NACIONAL",Bella Asuncion TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV (720p)
+#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="NACIONAL",Frecuencia Musical TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
