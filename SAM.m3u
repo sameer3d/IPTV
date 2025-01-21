@@ -5,7 +5,7 @@
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://static.wikia.nocookie.net/tvpedia-peru/images/7/70/Latina_TV_2022.svg/revision/latest?cb=20241121200000&path-prefix=es" group-title="NACIONAL",Latina
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="NACIONAL",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
