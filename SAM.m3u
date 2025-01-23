@@ -76,6 +76,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
 http://45.5.117.182:8000/play/jnl0/index.m3u8
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2
