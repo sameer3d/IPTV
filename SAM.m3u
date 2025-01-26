@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="NACIONAL",Agro TV (Apurimac)
+#EXTINF:0 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="NACIONAL",Agro TV (Apurimac)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="NACIONAL",Latina
+#EXTINF:0 tvg-id="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="NACIONAL",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="NACIONAL",Karibeña HD (720p)
+#EXTINF:0 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="NACIONAL",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
+#EXTINF:0 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
 #EXTVLCOPT:network-caching=1000
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoUHzsJBSfaMxk238xeJ7H0HxXEFtoNzo1uZ7mT6ErUauM8c1eCtrUaOZJdJ9s4_WM62VKnF36NTua8hbJ13rMcJH7ehwufyzksgtEWfBUFdFHgfm4roO1idsWpgq5ez5gStz1jcgHeuWao-l3NSyOfMUIxKJypYbxOJlWGIrMTtVqWAwoBOPRbO057ZaNE9Y7YklnejwWvm-nmW8OcLmLz63bII33jH355bpS-af8DVRZAhX6tQMof53wm8KBAERojuBG78SSxf_Zqd8oTAQZOh6J-vd8fcXnE4W5orSGqFKQFzMPXHFzF_Gp8V0WoHc4XpuB36QYbzTqX_xeqW8X3V3TboD1oF6AVJuyIjUq7q5TDKNRdP4NwigDXHQlHufNNSsv-tsdvSbJjHilOy_MzdOZMjHkZEMMvK15lzokAoNhitRZa8LtJ1de5_FtjUEZMZuNH65vOVWWBxxKOBZNh9nN4Ma_NDBSWTkiAWOUX4J9KXEvtZgKgxTAbVhTmpEpG3IGTtmWYZQovSgMQ6X9SVU4cOBuidP818zHWgH1f6zvjmTmcO3Hls7ezYeNr6R60H5RksSAxwWjhwHEvyOd5WO7kYiMDIoED7PzyUP_u50t3dP9wH_V-wit8CbdeMzkLP4nVz-g80UVG54oBDytWTuLOv7bptIEfTKHP02M-zd9jlfJ9GOetVZOVCZ4V7RTdlLxFuUluDWgMdaCCP_Bd5_JVDJ-i7fDR-JN-nJRZtyRo7gdxNWIdZE7yv_61GIQTreadFYDBSiZNANCqispUeWZRUggGTc9LUrkVafSG-FBRQJEZhOugjAj3E6xUARWCLFjO6ofnxT5eQTaM3_Id3M_idnUDnj1cpHRDqaExKFWPupGmgJ45BK1CRQtgs4Iq6unIjeTF51diJUeZBVC0lIypW9v5OD4bgX41lNs-mEWgT32h9e4twPWFATxTc-x5K1GpL0iaOa1PRCxrvX553J8MEXjxSqAdO7i8BBB_rEh7yWXT87a77g8SlSJEb-NT8cHOMUJqSzITQGDweelKfijxJgiz6ec2Bzx9qvlQhLbbbNNbvYUeutseNwnzg1pGryrVnAs7GGo3vrzgZKR-CWOfMK2Ph6q4CMbueG8vv5drekePNFjX0XtWStb8tKZsvDRxofFGqeLtDXgKIvdPGMZ_mdvfUXtUFbZpMZW2tvWiD3yNDkBoMDa4if1TG6CdVzo5aIAEqCXVzLWVhc3QtMTDrCQ.m3u8
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CrEGKr12yIbrRXYqTshnHZPspZW05a5_IiBvFpOCYaBLQ2DvTX1pRY4yyKJV4bVOw4l0DaA-Tgj1-lACGa-vU0IEMv3vL-MVUKavuY0CLT6Wd0KbblDOx4e7lDpcVZdELfmrCr_u3nvXiHf0y1wh-msUtdcvRcpJg_JiA5Y8NjkPmYZ0R0GSqnRrI1ovXcLWN8JOwobaiCpYw8r_T64j0eSAxIHDNGgux68jNv0DRSCA35y6l9QI_yOWKMxMhJER1ChKaPXzYbNX1N2JThZU4Du1AlxfZQXM7NNWD_b4RzvKdrXZD-Fvw5eeNY4aY4R0cZX1AYHud-jbjxJ5OL_vjQwDNDzBG1ri28gBq9SnnkioldWdDCmfVJA87sAK7SEL77kbHxTNILnCBkA8qE6XCkI9yrGWvl9lQB-8Wtcoz0FB0_e4GeT7gmiEW4CSIOaZs-tX3YWQzcBT2y6V7drOypXXyUTDPC-xi3sYWsFAoiIocl1--_QNzFUM-FvIPpm0pQYLryG9qwE2QNhf8rwQNQ1rczabsFG8DFb-8RgaEPMxlUHY4XkaVAoazSOFUqm2V5rRhVd3UlGSqdmfFP2Qoms7H-XVUJRCHaWmuTqB5M8Kt3EuKyvxY21JzOvV2mHEuvnqL-M4WbxlnV7S2YHSoL53lrLgVUhY4kJHWD5MOP7JfoESydswsj5Cq9qnZRi_UWANgpckf61vvMhV7jZm3S7XqfgDb2l3dVSElWmKpl4k5ZrGgZ8QXorJGkgsDZ2GXJW4PwPzf2hCqD8LJBWP5cRBRyDyuN8ms2pK9GykkvwTSL4E0cNl2vkd16Tne-biZy15q3mxY2JRaUYxSZ5CWzktoqV98edlAOfLXh11fKS9OfITvyFg83SQC0aM918LrKrEG-wliEOW5tcVyllvUnly0ooFyMMsotCj8Nu6cDxcpY3-PlA2y03dxKsCtovJDdJx5mFvYLedo1AuNLViHwEcq3NWVgojINcRAJWoWeEd4Wa7oIertcs_1xbbYL05Dij4fp0Y0CEdWF6XXnfNFkVRq-tlOvNDPYqkAluxo0eIBUPpNrvpLcgsJBHPd0g4Vrn8DBoMREczPvfSxZnE9rzTIAEqCXVzLWVhc3QtMTDsCQ.m3u8
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
@@ -74,35 +74,35 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
+#EXTINF:0 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2
+#EXTINF:0 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2
 http://181.78.8.90:16123/play/ch17
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1,ESPN 3
+#EXTINF:0 ,ESPN 3
 http://181.78.8.90:16123/play/ch18
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ESPN 5"
+#EXTINF:0 tvg-id="ESPN 5"
 http://181.78.8.90:16123/play/ch19
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1,ESPN 6
+#EXTINF:0,ESPN 6
 http://190.60.32.178:8178/play/a0aa/index.m3u8
 
-#EXTINF:-1,ESPN DEPORTES
+#EXTINF:0,ESPN DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1,FOX DEPORTES
+#EXTINF:0,FOX DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | PE
+#EXTINF:0 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | PE
 #EXTVLCOPT:network-caching=1000
 http://45.5.151.151:8000/play/a0hx/index.m3u8
 
