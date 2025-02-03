@@ -1,0 +1,178 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="NACIONAL",Agro TV (Apurimac)
+https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="NACIONAL",Latina
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="NACIONAL",Karibeña HD (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
+#EXTVLCOPT:network-caching=1000
+https://sae11.playlist.ttvnw.net/v1/playlist/CsUImM-dzkYva8KtjC4oeeD3xtL9p_eABpicqMqQbnG-hK3w1jTP192D-nQ0J03dvhrGFEOX-0BOZcTPza32WDlmyVfeaxZPhxcNeM3bJUg1NZF2LxouuSejgRxklsI4rbDS9z5zKGY1412O1l5OZh9h1uVv-S4x2WxIeILmfJpVQo5q17OfZCwFSI-7rtNKqhC3mW9b4Mx6T1e849MoWUnRyy1cY0Kt2q84e_mXCPgg6zOrSjKND5xkdnJvvDhhpPCl7CsRxIh2G7zcVvsK77EBRwmENbelh9rleYg79puyPFoQTBZifyTS8JxTdY0VzqQH91YL8gCnABymBB5MC2PabVMmH6QCAyYyvHgi1X0xfxiOAd11VUOnGhn9s4F832JLa_BlrboukfZrizT2I0_0eHBUAUWS6ukYTUAmEEMDmNvRTgKaLEJBqd-dIvywVAr1SXN5RFj6D3jadwcgmniAl7wZva7OxuuQnxWJfr5kjrexa_dVXsBfUlAliKMqhaV1bK4gQ79KvJgTLwV9m7JgDYH98DN8s0_gpoAj8VCULAT_UVYIGsKzFVK78usQeWAfRxOEr1AliwkV8jmB4inqjZVWiTv9CjwWPvIf7f36LqjkQ5bFkKUJGMQzLaQPOHwlciZXXNZF9zvxHYWdfuwgPVr9vz_p5fY1CDBg4K1s3AzF47juMm9Eqt-PFz_u_GJpPI0wOmi6_ukmah3KL2fNyKFo-hJvp3sq4KO22JfpF1E-uSCepkawhT5ivHu8VVBLaHmYSJy07KQ4MtuQmf4NxkJp8_5ibRSVlZ2xoNfATCDGXWKKZrjyD-uYs4XRgzTNAUCtPmwD21WG5wblfTrMrhUAOvmNJSxX4nsxcyYEnTUo3aXA46h9S1sC0xq_DKj6_1nnRqmHByXeMF-3-PlYxJBQbNBrxf9w9tnUDRlxBYj_z0CPruw4Vwm6cRWNA8yeD4EP6M79CShrt6AShskv_VIPgynaztcu0wJw_8BX1Tnniy6PXMXvHqwjEVMom5vCT5gVOuzOSDCslufbta2PjV2knS9hXg0vd6ry3JshmnH8uQhDObtm521dj6c3-LXqI36dhw-k-sp9pLUpFqv8vC17chmI2BqfmFAAUstGIml4JyhQ7CfA6ug_NCYARy6db6rWij6jlGyrcYDTIyGs8dWZzNjVZhq48KykbZp5gIoXzSi9ZlMLz1vrUIacBSkre5ko2kvGx--LkOy84S0_B4yGfWvdpPX7ri2_RaTvlX3NyeImExiK_mXzmQtzpleAoMKtsj2nxmUw23zCijIuICTLwz3-QTKV9NLZKSB32SWIfjXYxOlSm8oTg2vnnfkS2LHxVYQqOZ5Ki_m0m4Vlmv7JoyBN7G4rBnVew3xP1Ie74txS5lV2yuqSWy0m5ynK9HxDV8HEif-4af2QHTTm9KdJESfrdeL6SUKT43HwJhLIf6xyixoMgJF3sT9yfxMHuBFcIAEqCXVzLWVhc3QtMTD0CQ.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="NACIONAL",WILLAX HD
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NACIONAL",TV Noticias 7.3 (480p)
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="EXITOSA.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="NACIONAL",EXITOSA HD
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="NACIONAL",ATV Sur (480p)
+https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NACIONAL",ATV+ Noticias HD
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="NACIONAL",Nativa HD
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="NACIONAL",GLOBAL TV (SD)
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="NACIONAL",Sol TV
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="NACIONAL",AsiriTV (Lima) (720p)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="NACIONAL",Genios TV (Moyobamba) (720p)
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,AXN HD
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2
+http://181.78.8.90:16123/play/ch17
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 ,ESPN 3
+http://181.78.8.90:16123/play/ch18
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="ESPN 5"
+http://181.78.8.90:16123/play/ch19
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+
+#EXTINF:0,ESPN DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:0,FOX DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+#EXTINF:0 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | PE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.151:8000/play/a0hx/index.m3u8
+
+#EXTINF:-1 tvg-id="L1 MAX" tvg-name="L1 MAX" group-title="DEPORTES" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/liga-1-max-landing.png", L1GA MAX HD | PE
+#EXTVLCOPT:network-caching=1000
+http://177.53.155.236:8000/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTES",Ovacion TV HD
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="NACIONAL",Uranio TV (Yurimaguas) (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:0, Canal IPe (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Musica",Oasis RTV HD
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Musica",Turbo Mix Radio TV SD
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p)
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="NACIONAL",Televisión Tarapoto (720p)
+#EXTVLCOPT:network-caching=1000
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
+#EXTVLCOPT:network-caching=1000
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="NACIONAL",Bella Asuncion TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="NACIONAL",Frecuencia Musical TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:1-,Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:1-,AXN
+#EXTVLCOPT:network-caching=1000
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1,SAMEER
+#EXTVLCOPT:network-caching=1000
+https://sae11.playlist.ttvnw.net/v1/playlist/CoMGC6UfYx_yP-I75QF7vKV3fIUNH3BfEMfrWU8aih92SGEL0hDmT8XLk4P_3tcYVSdyAGWSu0KXShA6GF1WSFPVN5cxQUvzaMO3UnBw1sS3y7lpZ2LolEThsaQ4ijWzBucGiS_T-Foiuymxu2J0Bu27s43DRY9XEFy793gfJKKUIEWEFmY1bO4OxG4TTPkFsK5TB_np_POtek52WalkwnooB1voLkOy-SA7J-E-bfCgcL3HLhtXZtwn-XnYRdaQCDEGczHVIhZfoK0pXRAVGJcfu-0V6Q9rLxXR-4jBqZaUyLZJhq9AWXqwERrrpRXEeSw6EonuyYrbhoKOV_GcNexO-8y6TGN5IFeCUz3YlfG9DXC8TOyuOmJ94uf2TkWhW3aCngn8bkmOWIcNcXw_s2NI7egEarROiRAsO3UsJT-kuUX7ckvTkh5_rTXn5_06qey3q2Qg2WljNehCBlZzfEOYmUCWkcz9kK_cvvU6Dlo2OrhkZnB-yzJMPYqFm-33CugLaLntgQE4kmmCtw23gePYbY4mVefQJl3YmR4Pb_IaP3SW6h5zkxhg8qSJzZbU9pyRApvzE9ZX-M61hiadvAGO1w5UK9P_JFMhEotsD9w4kNfAlD2ZnFVCChfyFrpv6V-cQb1gsZSeTs8Y79-uGsWFPdCLeYyKOo_Jqq93dEoLTH2mP9MuD-UVCpH6w6sEMYTEqot3kQ4s4AycWwI77oVP_pyq6zPudbEUNu3Tss3bJtOKR_z6UR4QXX5s7aV0sQsxatE9_fB_76n8357bNdOxxpE5eDjHZhsyDCUwUrDIwQYOxqtecyjLbBSGLjTm3k7KiLfJ0506gfbAB6toeSVWwAVRlNb4khnuFcGGeLAZ3r9WnTCUJ0pWU4vdtPdvfVCxsjPw5u5grJ2eeDg6LNfRlT36XFft-uKP4Jt3NOTZNgDOGUSsJJ0BbSF0KL7UEXU2Q4_w4KHd70RlPYLZ6WSXz_mI8j0Drj93ccVQZ6WoS9k2WOsQNw2SaZRInVf3O8e1lLGxGgyDNeyX9xYDaSYuZeMgASoJdXMtZWFzdC0xMPQJ.m3u8
+
+#EXTINF:-1,MAS TV
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738553554/ei/cuSfZ_WOEu2Y4dUPjK69-Qk/ip/2803%3A9810%3A60a7%3A6710%3A24a3%3A80f%3A749%3A1c16/id/7gu2vQL7wNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51389580/txs/51389580%2C51389581/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY2Et-NKddcmbKIQFmhnBOeIcIA3O0cxVFaMMkrNadeRjes7Dzo3ZXPOJvLC5iM29LUl6NmU4Qb41XPo/spc/9kzgDfOn9iEfXVidxxBN7Z3J9N6eDOyXiySs8WWWkucWFbPrM8NZkVovvCZxxfk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVvtLg36UCfzuhYAGyNa_52CYGtZ9xFFKVCrcM01LejUCICnNWOAEEn83YFYgcXBNXjs0mO-bjOI86X4Ir3Q_D0lm/file/index.m3u8
