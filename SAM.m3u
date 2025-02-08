@@ -175,3 +175,9 @@ https://sae11.playlist.ttvnw.net/v1/playlist/CoMGC6UfYx_yP-I75QF7vKV3fIUNH3BfEMf
 #EXTINF:-1,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao",ARIRANG
 #EXTVLCOPT:network-caching=1000
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_640_360.png" group-title="DOCUMENTAL",SUMAC TV
+https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
