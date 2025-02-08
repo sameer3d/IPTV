@@ -164,9 +164,9 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:1-,AXN
+#EXTINF:1-,CINE SONY
 #EXTVLCOPT:network-caching=1000
-https://streamer1.nexgen.bz/AXN/index.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1,SAMEER
 #EXTVLCOPT:network-caching=1000
