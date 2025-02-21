@@ -60,6 +60,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="NACIONAL",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:19,Quassar TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://gnstreammedia.com:19360/4000/4000.m3u8
+
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="NACIONAL",Genios TV (Moyobamba) (720p)
 https://live.obslivestream.com/geniostvmux/index.m3u8
