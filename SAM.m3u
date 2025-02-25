@@ -100,7 +100,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao" - ARIRANG
+#EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao" ,ARIRANG
 #EXTVLCOPT:network-caching=1000
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
