@@ -59,129 +59,128 @@ https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="NACIONAL",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:19,Quassar TV (720p)
+#EXTINF:17,Quassar TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://gnstreammedia.com:19360/4000/4000.m3u8
-
+#EXTINF:0,SUMAC TV
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="NACIONAL",Genios TV (Moyobamba) (720p)
-https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1,AXN HD
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0 tvg-id="Sky sports" tvg-name="sky sports" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1280px-Sky_Sport_Switzerland.svg.png", sky sports
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2
-http://181.78.8.90:16123/play/ch17
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0 ,ESPN 3
-http://181.78.8.90:16123/play/ch18
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0 tvg-id="ESPN 5"
-http://181.78.8.90:16123/play/ch19
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0,ESPN 6
-http://190.60.32.178:8178/play/a0aa/index.m3u8
-
-#EXTINF:0,ESPN DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://190.92.10.66:4000/play/a003/index.m3u8
-
-#EXTINF:0,FOX DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-
-#EXTINF:0 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | PE
-#EXTVLCOPT:network-caching=1000
-http://45.5.151.151:8000/play/a0hx/index.m3u8
-
-#EXTINF:0,L1MAX
-http://177.53.155.236:8000/play/a0bt/index.m3u8
-
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTES",Ovacion TV HD
-#EXTVLCOPT:network-caching=1000
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="NACIONAL",Uranio TV (Yurimaguas) (720p)
-#EXTVLCOPT:network-caching=1000
-https://live.obslivestream.com/uraniotv/index.m3u8
-
-#EXTINF:0, Canal IPe (1080p)
+https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
+#EXTINF:49, Canal IPe (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
+#EXTINF:23,MUSICA TV
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Musica",Oasis RTV HD
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Musica",Turbo Mix Radio TV SD
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p)
-#EXTVLCOPT:network-caching=1000
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="NACIONAL",Televisión Tarapoto (720p)
-#EXTVLCOPT:network-caching=1000
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
-#EXTVLCOPT:network-caching=1000
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
-#EXTVLCOPT:network-caching=1000
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="NACIONAL",Bella Asuncion TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://tvdatta.com:3602/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="NACIONAL",Frecuencia Musical TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:1-,Auténtica Televisión (720p)
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:54,Kanal D Drama (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:1-,CINE SONY
+#EXTINF:77,Genios TV (Moyobamba) (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:0,FMH Movies
+#EXTVLCOPT:network-caching=1000
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:1,CINE SONY
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1,SAMEER
+#EXTINF:12,AXN HD
 #EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740376149/ei/9bO7Z6vBMIOzobIPtsaXqAc/ip/138.84.39.247/id/tAqSFiX68L4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393154/txs/51393154%2C51393155%2C51393156%2C51393157%2C51393158/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wBPvUfn3Nrj7ox76HuxFLQPzHJub-zUH7aI7H0QUZdMzHr-A7TMDUwyZSbRmfwq-m27TkSJ49r/spc/RjZbSTXwm0Qvymp3TL7A5M3psB6JeCnEpUhbJZ-IeZGpbAaTecbOraSqjcK-YOmpj7gA1sg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKGt-x4Wg1w9a0YRVCW8kT2TTMcBOXHsGlm99Giq8_eaAiEA1gshr46o2JxjQiTh_Eo-3sQf3CptULwUVVTNiA31luE%3D/file/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao",ARIRANG
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:23,HD
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao" - ARIRANG
 #EXTVLCOPT:network-caching=1000
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_640_360.png" group-title="DOCUMENTAL",SUMAC TV
-https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
-
+#EXTINF:29,WOW TV
+#EXTVLCOPT:network-caching=1000
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:11, sky sports
+#EXTVLCOPT:network-caching=1000
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:11,ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:11,ESPN DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:11, ESPN 3 HD | PE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.151:8000/play/a0hx/index.m3u8
+#EXTINF:11,TV-102
+#EXTVLCOPT:network-caching=1000
+http://177.53.155.236:8000/play/a0bt/index.m3u8
+#EXTINF:30,Ovacion TV HD
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:22,Uranio TV (Yurimaguas) (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:36,Oasis RTV HD
+#EXTVLCOPT:network-caching=1000
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:24,Turbo Mix Radio TV SD
+#EXTVLCOPT:network-caching=1000
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:24,Radio Tropical Tarapoto (480p)
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:35,Televisión Tarapoto (720p)
+#EXTVLCOPT:network-caching=1000
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:80,Frecuencia Musical TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:22,Auténtica Televisión (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:28,Antares Televisión (720p)
+#EXTVLCOPT:network-caching=1000
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:30,Retro TV
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:34,Agro TV (Apurimac) (720p) 
+#EXTVLCOPT:network-caching=1000
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:30,Andes Televisión (720p) (720p) 
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:22,Canal 8 Catacaos (720p) 
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:50,Latina Clasicos
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:60,Platzi TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:795,RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+#EXTVLCOPT:network-caching=1000
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:20,TVE Star HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:60,UCL (720p)
+#EXTVLCOPT:network-caching=1000
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:24,USIL TV (720p) 
+#EXTVLCOPT:network-caching=1000
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:42,USMPTV (720p) 
+#EXTVLCOPT:network-caching=1000
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:22,Vía Altomayo (720p) 
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:22,Viva TV Yurimaguas (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:22,VZ TV (720p) 
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
