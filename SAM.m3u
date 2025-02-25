@@ -17,170 +17,205 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://sae13.playlist.ttvnw.net/v1/playlist/Cq8G6t7BLFk13fQrAv71td2wcYdH2PuosVESzOjJ5PcIlMgitjV0FlyAmED_6Za9Sv8enRJRyu2rsNNtgSCk7MNlDJH_G9986QqSooi513Pl9fIX3ml8ODuUphnJ4ANw0ucVgyJiTf9nHbjU1uzZFaYeYprgrYKlmpVwNXXBE0ALfazT9Nxa1FpR9DBHWDpXOG0Ob8GdY1MR0yGeyaYUJypf1Ky109bvC8ok32RmmZQCd7j1eTd0v30r1tOwIS2nuuj_SO35DjPIUgTU7u6GbAJI4kEcqeppAV4laikaujdvFvTXSsv_PermgUjjDtL2o7xWEURkFfxC6H61mE1mUddTjlD4ziJOaDvJ4Eq6SvY5AsvH0hPBi91WoZGSalvamHsXdph5Vz7_fLt7cF1KczSPouY7H9OaliJJ0OjUnlOg3UOASpi0RFmLDJ6X0Up0cCQtORESAWi6xqJpeFeu3jpI3ORFuvDznjQgGNr9iPQIkW12aaiH54zPYL0-Es9DNlxCjRm4k7J2eskc65jsZbZn5P6Z06veVvqyePiRh_HTvgb_zlx5hUc7gaRn3ll2Gpg8tYXfZdsul4rEgwWcREyJQ-NUtyH8aWjBn1H8aCsnWuCCNLESSGLw3PbzV6hDUQX5o5umTbLCJ2tSPr1SsYvv_r3GIRBKcdH63hGxF1fFb3xJlrzWnWF-QtMLPPm8_Y-cT_d43aJETyCmnwpWQCGooPMca2EOgDdN_-B38Q40KbdKxx_cqoAA9hCrLBEpQzG3vgQh-Yp1DneBdlYYusr5nJ3xJeql_6iSJBkZ3q1ZySyAEtfaQI6ZwlbYow1_7FTDk1nqBt564gWMlDojWTzTZu9J2f497PmbuKo4CNzHKenc_ILJckL42hFpotXRE_aBJIXInnRwMW_vE0fJJ4u2cDb310rKDKK1cjdyZoZuZrrdvQzEMilvzo-oCrQCxU1nC4zcIackwrZEK7hZWuWfIs2HOLzDtXoaRdrJa5MZs4q8xxWwaWAT5AK9S1qAuiAGq2r2NYXHd6V3_QmXfKXcvrVLqPsPwxKhOjInmePPR5lrzBXWGUPoAjN35189QG4aDId5Uz8LvMh77HuD5iABKgl1cy1lYXN0LTIw0ws.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="NACIONAL",WILLAX HD
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="NACIONAL",WILLAX HD
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NACIONAL",TV Noticias 7.3 (480p)
+#EXTINF:0 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NACIONAL",TV Noticias 7.3 (480p)
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="EXITOSA.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="NACIONAL",EXITOSA HD
+#EXTINF:0 tvg-id="EXITOSA.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="NACIONAL",EXITOSA HD
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
+#EXTINF:0 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="NACIONAL",ATV Sur (480p)
+#EXTINF:0 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja0.png" group-title="NACIONAL",ATV Sur (480p)
 https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NACIONAL",ATV+ Noticias HD
+#EXTINF:0 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NACIONAL",ATV+ Noticias HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="NACIONAL",Nativa HD
+#EXTINF:0 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="NACIONAL",Nativa HD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="NACIONAL",GLOBAL TV (SD)
+#EXTINF:0 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="NACIONAL",GLOBAL TV (SD)
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="NACIONAL",Sol TV
+#EXTINF:0 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="NACIONAL",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="NACIONAL",AsiriTV (Lima) (720p)
+#EXTINF:0 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="NACIONAL",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:17,Quassar TV (720p)
+
+#EXTINF:0,Quassar TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://gnstreammedia.com:19360/4000/4000.m3u8
+
 #EXTINF:0,SUMAC TV
 #EXTVLCOPT:network-caching=1000
 https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
-#EXTINF:49, Canal IPe (1080p)
+
+#EXTINF:0, Canal IPe (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:23,MUSICA TV
+
+#EXTINF:0,MUSICA TV
 #EXTVLCOPT:network-caching=1000
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:54,Kanal D Drama (1080p)
+
+#EXTINF:0,Kanal D Drama (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:77,Genios TV (Moyobamba) (720p)
+
+#EXTINF:0,Genios TV (Moyobamba) (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:0,FMH Movies
 #EXTVLCOPT:network-caching=1000
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
-#EXTINF:1,CINE SONY
+
+#EXTINF:0,CINE SONY
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:12,AXN HD
+
+#EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:23,HD
+
+#EXTINF:0,HD
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQHuQxeMo-wVMg/company-logo_200_200/company-logo_200_200/0/1630620677521/arirang_tv_logo?e=2147483647&v=beta&t=OmxDnwSFw9fLFD4F0K1doCVT8-tXgMo6N7s8Ap4lvao" - ARIRANG
 #EXTVLCOPT:network-caching=1000
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:29,WOW TV
+
+#EXTINF:0,WOW TV
 #EXTVLCOPT:network-caching=1000
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:11, sky sports
+
+#EXTINF:0, sky sports
 #EXTVLCOPT:network-caching=1000
 http://45.5.117.182:8000/play/jnl0/index.m3u8
-#EXTVLCOPT:network-caching=1000
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:11,ESPN 6
+
+#EXTINF:0,ESPN 6
 #EXTVLCOPT:network-caching=1000
 http://190.60.32.178:8178/play/a0aa/index.m3u8
-#EXTINF:11,ESPN DEPORTES
+
+#EXTINF:0,ESPN DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:11, ESPN 3 HD | PE
+
+#EXTINF:0, ESPN 3 HD | PE
 #EXTVLCOPT:network-caching=1000
 http://45.5.151.151:8000/play/a0hx/index.m3u8
-#EXTINF:11,TV-102
+
+#EXTINF:0,TV002
 #EXTVLCOPT:network-caching=1000
 http://177.53.155.236:8000/play/a0bt/index.m3u8
-#EXTINF:30,Ovacion TV HD
+
+#EXTINF:0,Ovacion TV HD
 #EXTVLCOPT:network-caching=1000
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:22,Uranio TV (Yurimaguas) (720p)
+
+#EXTINF:0,Uranio TV (Yurimaguas) (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:36,Oasis RTV HD
+
+#EXTINF:0,Oasis RTV HD
 #EXTVLCOPT:network-caching=1000
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:24,Turbo Mix Radio TV SD
+
+#EXTINF:0,Turbo Mix Radio TV SD
 #EXTVLCOPT:network-caching=1000
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:24,Radio Tropical Tarapoto (480p)
+
+#EXTINF:0,Radio Tropical Tarapoto (480p)
 #EXTVLCOPT:network-caching=1000
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:35,Televisión Tarapoto (720p)
+
+#EXTINF:0,Televisión Tarapoto (720p)
 #EXTVLCOPT:network-caching=1000
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:80,Frecuencia Musical TV (720p)
+
+#EXTINF:0,Frecuencia Musical TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:22,Auténtica Televisión (720p)
+
+#EXTINF:0,Auténtica Televisión (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:28,Antares Televisión (720p)
+
+#EXTINF:0,Antares Televisión (720p)
 #EXTVLCOPT:network-caching=1000
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:30,Retro TV
+
+#EXTINF:0,Retro TV
 #EXTVLCOPT:network-caching=1000
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
 #EXTINF:34,Agro TV (Apurimac) (720p) 
 #EXTVLCOPT:network-caching=1000
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:30,Andes Televisión (720p) (720p) 
+
+#EXTINF:0,Andes Televisión (720p) (720p) 
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:22,Canal 8 Catacaos (720p) 
+
+#EXTINF:0,Canal 8 Catacaos (720p) 
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:50,Latina Clasicos
+
+#EXTINF:0,Latina Clasicos
 #EXTVLCOPT:network-caching=1000
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:60,Platzi TV (1080p)
+
+#EXTINF:0,Platzi TV (1080p)
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:795,RT en Español (1080p)
-#EXTVLCOPT:http-referrer=https://odysee.com/
+
+#EXTINF:0,RT en Español (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:20,TVE Star HD (1080p)
+
+#EXTINF:0,TVE Star HD (1080p)
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:60,UCL (720p)
+
+#EXTINF:0,UCL (720p)
 #EXTVLCOPT:network-caching=1000
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:24,USIL TV (720p) 
+
+#EXTINF:0,USIL TV (720p) 
 #EXTVLCOPT:network-caching=1000
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:42,USMPTV (720p) 
+
+#EXTINF:0,USMPTV (720p) 
 #EXTVLCOPT:network-caching=1000
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:22,Vía Altomayo (720p) 
+
+#EXTINF:0,Vía Altomayo (720p) 
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:22,Viva TV Yurimaguas (720p)
+
+#EXTINF:0,Viva TV Yurimaguas (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:22,VZ TV (720p) 
+
+#EXTINF:0,VZ TV (720p) 
 #EXTVLCOPT:network-caching=1000
 https://live.obslivestream.com/vztv/index.m3u8
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
