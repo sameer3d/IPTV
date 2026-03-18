@@ -19,7 +19,7 @@ https://live-evg20.tv360.bitel.com.pe/PQ0SO9GyF_hhmoi1oelSaA/1773950412/bitel/Am
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8?timestamp=1773886131&wmkid=0&uid=11610171&token=e51b8856832c011b84a781a4013cca38
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="NACIONAL",WILLAX HD
 #EXTVLCOPT:network-caching=1000
