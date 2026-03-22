@@ -15,7 +15,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:0 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/6ZpHnm86Wg7lI_VIpKThtA/1774301832/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/BI-haOMO5IzMjbVdK49rAA/1774302756/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 #EXTVLCOPT:network-caching=1000
@@ -23,11 +23,11 @@ https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="NACIONAL",WILLAX HD
 #EXTVLCOPT:network-caching=1000
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_360p/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NACIONAL",TV Noticias 7.3 (480p)
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/7gEKXBlErXMukze3i3vzvQ/1774301931/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/V9xqXWksoQnmQwiwtOz4NA/1774301931/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EXITOSA.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="NACIONAL",EXITOSA HD
 #EXTVLCOPT:network-caching=1000
@@ -35,7 +35,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_360p/chunks
 
 #EXTINF:0 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
 #EXTVLCOPT:network-caching=1000
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunks.m3u8?timestamp=1774237071&wmkid=0&uid=8995454&token=e27fc69998b4d309dc79caf7dba29b11
+https://live-evg20.tv360.bitel.com.pe/tUeai61BvBlshHVRs6VrZg/1774302867/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="NACIONAL",ATV Sur (480p)
 #EXTVLCOPT:network-caching=1000
