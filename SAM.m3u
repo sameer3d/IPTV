@@ -15,7 +15,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:0 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/M2kCOD814UrBpB979J2ABw/1774646049/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/gpkaXbZkM0DY1iWc84Li2g/1774735470/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 #EXTVLCOPT:network-caching=1000
@@ -27,7 +27,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NACIONAL",TV Noticias 7.3 (480p)
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/VZ9jppGx7oqTpPrubwyHEA/1774646160/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/oJrbuMFmchKGPuwko_Y6Jw/1774735533/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EXITOSA.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="NACIONAL",EXITOSA HD
 #EXTVLCOPT:network-caching=1000
