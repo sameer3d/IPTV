@@ -15,7 +15,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:0 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="NACIONAL",America TV
 #EXTVLCOPT:network-caching=1000
-https://live-evg20.tv360.bitel.com.pe/gpkaXbZkM0DY1iWc84Li2g/1774735470/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/4Xn5EezcvRcFTaejAl2YHQ/1775000046/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL", Panamericana
 #EXTVLCOPT:network-caching=1000
@@ -35,7 +35,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_360p/chunks
 
 #EXTINF:0 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
 #EXTVLCOPT:network-caching=1000
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8?timestamp=1774935285&wmkid=0&uid=8995454&token=725d220f1f64f2cc86cc2643511fd376
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="NACIONAL",ATV Sur (480p)
 #EXTVLCOPT:network-caching=1000
