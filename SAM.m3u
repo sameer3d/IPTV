@@ -35,7 +35,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_360p/chunks
 
 #EXTINF:0 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONAL",ATV HD
 #EXTVLCOPT:network-caching=1000
-https://es1-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_480p/chunks.m3u8?timestamp=1775798442&wmkid=0&uid=8995454&token=22d9313057be94aaff04373cf3f3f568
+https://live-evg20.tv360.bitel.com.pe/gajag_cwcuHWWcLS-0MEgQ/1775935170/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="NACIONAL",ATV Sur (480p)
 #EXTVLCOPT:network-caching=1000
